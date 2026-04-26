@@ -41,11 +41,11 @@ Project - Currency Exchange (Currency_exchange.py)
 
 
 ### 📝 Log: April 26, 2026
-**Project:** Multi-Unit Converter (`converter.py`)
+**Project:** Multi-Unit Converter (`unit_converter.py`)
 
 **Concepts Learnt:**
 * **Data Structures:** Using a **List of Tuples** to store menu metadata (IDs and unit names) in one place.
 * **Tuple Unpacking:** Efficiently extracting multiple variables from a list inside a `for` loop.
 * **Math Logic:** Implementing both multiplicative factors (Distance/Mass) and linear equations (Temperature).
 * **Index Offsets:** Learning how to map user input (starting at 1) to Python’s zero-based indexing (starting at 0).
-I know its been a long time since I 
+I know its been a long time since I did a project but im back and Im ready to do I have has a few significant challenges such as forgetting a few concepts that I didn't quite understand like the f-string but now I have revised and I am ready to go.
